@@ -1,0 +1,6 @@
+server:
+  port: 9090
+
+cascading:
+  caseTransmit:
+    cron: '0/5 * * * * ?'
